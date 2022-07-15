@@ -1,0 +1,18 @@
+
+:root{
+    --color:#fff;
+}
+
+
+h1{
+    text-align:center;
+    color:#fff;
+}
+
+*{
+    background-color:#333;
+}
+p{
+    text-align:center;
+    color:var(--color);
+}
